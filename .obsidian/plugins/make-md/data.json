@@ -36,7 +36,6 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "//images",
     "//데이터베이스"
   ],
   "expandFolderOnClick": true,
